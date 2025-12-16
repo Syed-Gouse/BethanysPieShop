@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\BethanysPieShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|BethanysPieShop\\BethanysPieShop.csproj|c:\\projects\\bethanyspieshop\\bethanyspieshop\\controllers\\piecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|BethanysPieShop\\BethanysPieShop.csproj|solutionrelative:bethanyspieshop\\controllers\\piecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|BethanysPieShop\\BethanysPieShop.csproj|c:\\projects\\bethanyspieshop\\bethanyspieshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|BethanysPieShop\\BethanysPieShop.csproj|solutionrelative:bethanyspieshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|BethanysPieShop\\BethanysPieShop.csproj|c:\\projects\\bethanyspieshop\\bethanyspieshop\\models\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|BethanysPieShop\\BethanysPieShop.csproj|solutionrelative:bethanyspieshop\\models\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|BethanysPieShop\\BethanysPieShop.csproj|c:\\projects\\bethanyspieshop\\bethanyspieshop\\migrations\\20251216140012_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|BethanysPieShop\\BethanysPieShop.csproj|solutionrelative:bethanyspieshop\\migrations\\20251216140012_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|BethanysPieShop\\BethanysPieShop.csproj|c:\\projects\\bethanyspieshop\\bethanyspieshop\\bethanyspieshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|BethanysPieShop\\BethanysPieShop.csproj|solutionrelative:bethanyspieshop\\bethanyspieshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|BethanysPieShop\\BethanysPieShop.csproj|c:\\projects\\bethanyspieshop\\bethanyspieshop\\models\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|BethanysPieShop\\BethanysPieShop.csproj|solutionrelative:bethanyspieshop\\models\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|BethanysPieShop\\BethanysPieShop.csproj|c:\\projects\\bethanyspieshop\\bethanyspieshop\\models\\pierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|BethanysPieShop\\BethanysPieShop.csproj|solutionrelative:bethanyspieshop\\models\\pierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|BethanysPieShop\\BethanysPieShop.csproj|c:\\projects\\bethanyspieshop\\bethanyspieshop\\models\\ipierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|BethanysPieShop\\BethanysPieShop.csproj|solutionrelative:bethanyspieshop\\models\\ipierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|BethanysPieShop\\BethanysPieShop.csproj|c:\\projects\\bethanyspieshop\\bethanyspieshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|BethanysPieShop\\BethanysPieShop.csproj|solutionrelative:bethanyspieshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|BethanysPieShop\\BethanysPieShop.csproj|c:\\projects\\bethanyspieshop\\bethanyspieshop\\models\\bethanyspieshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|BethanysPieShop\\BethanysPieShop.csproj|solutionrelative:bethanyspieshop\\models\\bethanyspieshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PieController.cs",
+              "DocumentMoniker": "C:\\Projects\\BethanysPieShop\\BethanysPieShop\\Controllers\\PieController.cs",
+              "RelativeDocumentMoniker": "BethanysPieShop\\Controllers\\PieController.cs",
+              "ToolTip": "C:\\Projects\\BethanysPieShop\\BethanysPieShop\\Controllers\\PieController.cs",
+              "RelativeToolTip": "BethanysPieShop\\Controllers\\PieController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T14:11:00.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Projects\\BethanysPieShop\\BethanysPieShop\\Models\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "BethanysPieShop\\Models\\DbInitializer.cs",
+              "ToolTip": "C:\\Projects\\BethanysPieShop\\BethanysPieShop\\Models\\DbInitializer.cs",
+              "RelativeToolTip": "BethanysPieShop\\Models\\DbInitializer.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAD4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T14:08:32.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20251216140012_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Projects\\BethanysPieShop\\BethanysPieShop\\Migrations\\20251216140012_InitialMigration.cs",
+              "RelativeDocumentMoniker": "BethanysPieShop\\Migrations\\20251216140012_InitialMigration.cs",
+              "ToolTip": "C:\\Projects\\BethanysPieShop\\BethanysPieShop\\Migrations\\20251216140012_InitialMigration.cs",
+              "RelativeToolTip": "BethanysPieShop\\Migrations\\20251216140012_InitialMigration.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T14:00:12.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPieRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\BethanysPieShop\\BethanysPieShop\\Models\\IPieRepository.cs",
+              "RelativeDocumentMoniker": "BethanysPieShop\\Models\\IPieRepository.cs",
+              "ToolTip": "C:\\Projects\\BethanysPieShop\\BethanysPieShop\\Models\\IPieRepository.cs",
+              "RelativeToolTip": "BethanysPieShop\\Models\\IPieRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T13:44:23.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\BethanysPieShop\\BethanysPieShop\\Program.cs",
+              "RelativeDocumentMoniker": "BethanysPieShop\\Program.cs",
+              "ToolTip": "C:\\Projects\\BethanysPieShop\\BethanysPieShop\\Program.cs",
+              "RelativeToolTip": "BethanysPieShop\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAABsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T13:41:18.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\BethanysPieShop\\BethanysPieShop\\appsettings.json",
+              "RelativeDocumentMoniker": "BethanysPieShop\\appsettings.json",
+              "ToolTip": "C:\\Projects\\BethanysPieShop\\BethanysPieShop\\appsettings.json",
+              "RelativeToolTip": "BethanysPieShop\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-15T10:40:01.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BethanysPieShopDbContext.cs",
+              "DocumentMoniker": "C:\\Projects\\BethanysPieShop\\BethanysPieShop\\Models\\BethanysPieShopDbContext.cs",
+              "RelativeDocumentMoniker": "BethanysPieShop\\Models\\BethanysPieShopDbContext.cs",
+              "ToolTip": "C:\\Projects\\BethanysPieShop\\BethanysPieShop\\Models\\BethanysPieShopDbContext.cs",
+              "RelativeToolTip": "BethanysPieShop\\Models\\BethanysPieShopDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T10:38:28.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BethanysPieShop.csproj",
+              "DocumentMoniker": "C:\\Projects\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj",
+              "RelativeDocumentMoniker": "BethanysPieShop\\BethanysPieShop.csproj",
+              "ToolTip": "C:\\Projects\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj",
+              "RelativeToolTip": "BethanysPieShop\\BethanysPieShop.csproj",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-15T10:26:46.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PieRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\BethanysPieShop\\BethanysPieShop\\Models\\PieRepository.cs",
+              "RelativeDocumentMoniker": "BethanysPieShop\\Models\\PieRepository.cs",
+              "ToolTip": "C:\\Projects\\BethanysPieShop\\BethanysPieShop\\Models\\PieRepository.cs",
+              "RelativeToolTip": "BethanysPieShop\\Models\\PieRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwB8AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T13:45:33.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\BethanysPieShop\\BethanysPieShop\\Models\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "BethanysPieShop\\Models\\CategoryRepository.cs",
+              "ToolTip": "C:\\Projects\\BethanysPieShop\\BethanysPieShop\\Models\\CategoryRepository.cs",
+              "RelativeToolTip": "BethanysPieShop\\Models\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T13:51:44.518Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
